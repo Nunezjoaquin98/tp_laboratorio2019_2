@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1556479746 source:c:\users\joaco\downloads\prueba-master\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1555980608 c:\users\joaco\downloads\prueba-master\tp 2\funciones.h
+
+1556479718 source:c:\users\joaco\downloads\prueba-master\tp 2\arraysemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArraysEmployees.h"
+
+1556479784 c:\users\joaco\downloads\prueba-master\tp 2\arraysemployees.h
+
+1556479948 source:c:\users\joaco\downloads\prueba-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArraysEmployees.h"
+
+1556480449 source:c:\users\joaco\downloads\tp_laboratorio_1-master\tp 2\arraysemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArraysEmployees.h"
+
+1556480449 c:\users\joaco\downloads\tp_laboratorio_1-master\tp 2\funciones.h
+
+1556480449 c:\users\joaco\downloads\tp_laboratorio_1-master\tp 2\arraysemployees.h
+
+1556480449 source:c:\users\joaco\downloads\tp_laboratorio_1-master\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1556480449 source:c:\users\joaco\downloads\tp_laboratorio_1-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArraysEmployees.h"
+
